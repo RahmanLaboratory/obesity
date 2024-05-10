@@ -45,6 +45,10 @@ social:
     url: https://www.facebook.com/profile.php?id=61557838765203
   - title: github
     url: https://ziad786.github.io/
+  - title: Linkedin
+    url: https://www.linkedin.com/in/ziad-rahman-bhuiyan/
+  - title: flickr
+    url: https://www.flickr.com/photos/198136845@N04/
 
   #- #title: #stack-overflow
     #url: http://stackoverflow.com/questions/tagged/jekyll
