@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: datacollector.png
+img: datacollector1.png
 alt: image-alt
 project-date: May 2024
 #client: Start Bootstrap
