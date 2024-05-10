@@ -32,23 +32,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Ziad Rahman Bhuiyan
   location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/Ziad_Bhuiyan
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/profile.php?id=61557838765203
+  - title: #stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: #bitbucket
+    #url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://ziad786.github.io/
 
 # Postal address (add as many lines as necessary)
 address:
