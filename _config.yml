@@ -5,7 +5,7 @@ url: https://rahmanlaboratory.github.io/obesity/ #https://github.com/jeromelacha
 description: "Obesity, defined by BMI, is a global health concern linked to serious diseases. It's caused by more than just diet & exercise, with genes & social factors at play too. A combined approach of healthy habits, public health efforts, and accessible healthcare is needed to tackle this crisis."
 keywords: "Obesity, Public Health, Global, Asia, Bangladesh"
 skills: "Research > Findings > Implement"
-meta_author: LastName FirstName
+meta_author: Bhuiyan ZiadRahman
 
 # Google webmaster tools
 google_verify:
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+contact: bhuiyan.zr@gmail.com
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -57,7 +57,10 @@ address:
   - line: Dhaka, Bangladesh
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'We are working to prevent obesity.'
+
+
+#'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
