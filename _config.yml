@@ -43,12 +43,13 @@ social:
     url: https://twitter.com/Ziad_Bhuiyan
   - title: facebook
     url: https://www.facebook.com/profile.php?id=61557838765203
-  - #title: #stack-overflow
-    #url: http://stackoverflow.com/questions/tagged/jekyll
-  - #title: #bitbucket
-    #url: http://bitbucket.org/jekyll
   - title: github
     url: https://ziad786.github.io/
+
+  #- #title: #stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+  #- #title: #bitbucket
+    #url: http://bitbucket.org/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
