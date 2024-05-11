@@ -46,7 +46,7 @@ social:
   - title: flickr
     url: https://www.flickr.com/photos/198136845@N04/
   - title: email
-    url: bhuiyan.zr@gmail.com
+    url: mailto:bhuiyan.zr@gmail.com
 
   #- #title: #stack-overflow
     #url: http://stackoverflow.com/questions/tagged/jekyll
