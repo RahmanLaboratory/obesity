@@ -9,7 +9,7 @@ project-date: May 2024
 category: Free Medical Check Up
 
 
-description: 1.1. To calculate your BMI/obese status and/or predict your future genaration's color blind status, please click on -> <a href="https://codeinplace.stanford.edu/cip3/share/p6H5A3qEL1AoBPdbECPz">here</a>. 1.2. hi
+description: 1.1. To calculate your BMI/obese status and/or predict your future genaration's color blind status, please click on -> <a href="https://codeinplace.stanford.edu/cip3/share/p6H5A3qEL1AoBPdbECPz">here</a>. 
 
 ---
 
