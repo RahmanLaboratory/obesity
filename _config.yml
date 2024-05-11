@@ -33,8 +33,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: email
-    url: mailto:bhuiyan.zr@gmail.com
   - title: twitter
     url: https://twitter.com/Ziad_Bhuiyan
   - title: facebook
@@ -45,7 +43,7 @@ social:
     url: https://www.linkedin.com/in/ziad-rahman-bhuiyan/
   - title: flickr
     url: https://www.flickr.com/photos/198136845@N04/
-  - title: gmail
+  - title: Gmail
     url: mailto:bhuiyan.zr@gmail.com
 
   #- #title: #stack-overflow
