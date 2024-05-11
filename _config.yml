@@ -33,6 +33,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: email
+    url: bhuiyan.zr@gmail.com
   - title: twitter
     url: https://twitter.com/Ziad_Bhuiyan
   - title: facebook
@@ -43,6 +45,8 @@ social:
     url: https://www.linkedin.com/in/ziad-rahman-bhuiyan/
   - title: flickr
     url: https://www.flickr.com/photos/198136845@N04/
+  - title: email
+    url: bhuiyan.zr@gmail.com
 
   #- #title: #stack-overflow
     #url: http://stackoverflow.com/questions/tagged/jekyll
