@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2024
 #client: Start Bootstrap
 category: Voluntary
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 1.1 PUBLIC HEALTH | RESEARCH | PROJECT - Understanding Obesity and Mental Health Among High School-College going Students
 ---

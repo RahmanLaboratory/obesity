@@ -6,10 +6,9 @@ img: freemedicalcheckup.png
 alt: image-alt
 project-date: May 2024
 #client: Start Bootstrap
-category: Free Medical Check Up
+category: Free Medical Service
 
 
 description: 1.1. To calculate your BMI/check your obesity status and/or get our free suggestions, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/dAeTjM4nxQHbZhkoxhZD">here</a>.<br/>1.2. To check for free whether your offspring will be color blind and how to prevent it, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/twTxB2OdbAakdkGGlXz9">here</a>.
 
 ---
-
