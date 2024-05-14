@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2024
 #client: Start Bootstrap
 category: Voluntary
-description: <a href="https://rahmanlaboratory.github.io/rahmanlab-files//files/volunteer_obesity_research_project_dhaka_high_school.pdf">1.1 PUBLIC HEALTH | RESEARCH | PROJECT - Understanding Obesity and Mental Health Among High School-College going Students.</a>
+description: <a href="https://rahmanlaboratory.github.io/rahmanlab-files//files/volunteer_obesity_research_project_dhaka_high_school_dha.pdf">1.1 | Dhaka | PUBLIC HEALTH | RESEARCH | PROJECT - Understanding Obesity and Mental Health Among High School-College going Students.</a>
 
 ---
