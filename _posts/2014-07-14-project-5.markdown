@@ -9,6 +9,6 @@ project-date: May, 2024 (Last Modified)
 category: Free Medical Service
 
 
-description: 5.1. Global | To calculate your BMI/check your obesity status and/or get our free suggestions, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/dAeTjM4nxQHbZhkoxhZD">here</a>. (Please use your laptop or PC for using it. Cell phone may not support this tool.)<br/>5.1. Global | To check for free whether your offspring will be color blind and how to prevent it, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/twTxB2OdbAakdkGGlXz9">here</a>.(Please use your laptop or PC for using it. Cell phone may not support this tool.)
+description: 5.1. Global | To calculate your BMI/check your obesity status and/or get our free suggestions, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/dAeTjM4nxQHbZhkoxhZD">here</a>. (You are requested to use your laptop or PC for using it. Cell phone may not support our service.)<br/>5.1. Global | To check for free whether your offspring will be color blind and how to prevent it, you are requested to click on -> <a href="https://codeinplace.stanford.edu/cip3/share/twTxB2OdbAakdkGGlXz9">here</a>.
 
 ---
