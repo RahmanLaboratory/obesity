@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: researchproject.png
 alt: image-alt
-project-date: May 2024
+project-date: May, 2024 (Last Modified)
 #client: Start Bootstrap
 category: Research Projects
 description: 2.1. Dhaka | Loading
